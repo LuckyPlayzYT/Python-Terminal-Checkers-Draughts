@@ -1,0 +1,4 @@
+colorama>=0.4.6
+copy>=1.0
+replit>=3.2.4
+replit-python-lsp-server>=1.15.9
